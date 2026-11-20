@@ -190,11 +190,17 @@ This repo supports:
 If you use this work:
 
 ```bibtex
-@misc{bangla_vqa_llm,
-  title={Bangla Visual Question Answering using Large Language Models},
-  author={Your Name},
-  year={2026}
-}
+@INPROCEEDINGS{hoquevqa,
+  author={Hoque, Md Mahmudul and Azrof, H.M. and Karmaker, Shuvo and Rafi, Redwan Ahmed and Khan, Sakib and Jyoti, Cornea},
+  booktitle={2026 IEEE 4th International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings)}, 
+  title={BanglaVQA-LLM: Enhancing Bangla Visual Question Answering with Instruction-Tuned Large Language Models}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Modeling;Visualization;Printing;Question answering (information retrieval);Multilingual;Testing;Training;Large language models;Tuning;Indexes;Bangla visual question answering;large language models;retrieval-augmented prompting;CLIP;low-resource languages;hallucination},
+  doi={10.1109/AIBThings71029.2026.11771448}}
+
 ```
 
 ---
